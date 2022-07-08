@@ -1,0 +1,4 @@
+int age = 150 ;
+String ex = Jopa ;
+int age = 1990 ;
+String ex = Roman ;
